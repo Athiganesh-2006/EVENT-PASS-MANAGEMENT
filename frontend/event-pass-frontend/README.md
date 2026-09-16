@@ -20,12 +20,12 @@ Frontend:
 http://localhost:5173
 
 Backend expected by default:
-http://localhost:8080
+http://localhost:8089
 
 If the backend uses another URL, copy `.env.example` to `.env` and change:
 
 ```text
-VITE_API_URL=http://localhost:8080/api
+VITE_API_URL=http://localhost:8089/api
 ```
 
 ## Main pages

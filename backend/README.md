@@ -39,7 +39,7 @@ mvn clean spring-boot:run
 Backend runs on:
 
 ```text
-http://localhost:8080
+http://localhost:8089
 ```
 
 ## JWT authentication flow

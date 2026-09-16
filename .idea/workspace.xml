@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="026c66a6-de06-4dc6-bea7-4d4a31bef5fb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/EventPassApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/EventPassApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/config/DataInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/config/DataInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/config/GlobalExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/config/GlobalExceptionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/controller/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/controller/AuthController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/controller/EventController.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/controller/EventController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/controller/EventRegistrationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/controller/EventRegistrationController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/controller/PassController.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/controller/PassController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/controller/RegistrationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/controller/RegistrationController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/controller/TimeSlotController.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/controller/TimeSlotController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/dto/CreateEventRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/dto/CreateEventRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/dto/CreateRegistrationRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/dto/CreateRegistrationRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/dto/CreateTimeSlotRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/dto/CreateTimeSlotRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/dto/EventResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/dto/EventResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/dto/LoginRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/dto/LoginRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/dto/LoginResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/dto/LoginResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/dto/PassResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/dto/PassResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/dto/RegistrationResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/dto/RegistrationResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/dto/TimeSlotResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/dto/TimeSlotResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/Event$EventBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/Event$EventBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/Event$EventStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/Event$EventStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/Event.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/Pass$PassBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/Pass$PassBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/Pass$PassStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/Pass$PassStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/Pass.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/Pass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/Registration$RegistrationBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/Registration$RegistrationBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/Registration$RegistrationStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/Registration$RegistrationStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/Registration.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/Registration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/TimeSlot$TimeSlotBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/TimeSlot$TimeSlotBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/TimeSlot.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/TimeSlot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/User$Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/User$Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/User$UserBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/User$UserBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/repository/EventRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/repository/EventRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/repository/PassRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/repository/PassRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/repository/RegistrationRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/repository/RegistrationRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/repository/TimeSlotRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/repository/TimeSlotRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/security/JwtAuthenticationFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/security/JwtAuthenticationFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/security/JwtService.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/security/JwtService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/security/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/security/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/service/AuthService.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/service/AuthService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/service/EventService.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/service/EventService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/service/PassService.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/service/PassService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/service/RegistrationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/service/RegistrationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/service/TimeSlotService.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/service/TimeSlotService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/eventpass/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/target/classes/com/eventpass/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/event-pass-frontend/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/event-pass-frontend/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/event-pass-frontend/src/services/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/event-pass-frontend/src/services/api.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="89" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Athiganesh-2006"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Athiganesh-2006/EVENT-PASS-MANAGEMENT.git",
+    "accountId": "394eab68-6a9e-4013-a9fe-97ad421c595b"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="3JOvRZwdR0ySjpX87FvLD20fseQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EventPassApplication.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.EventPassApplication.executor": "Debug",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/SSN/Downloads/event-pass-full-stack-integrated",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="026c66a6-de06-4dc6-bea7-4d4a31bef5fb" name="Changes" comment="" />
+      <created>1789544921362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789544921362</updated>
+    </task>
+    <servers />
+  </component>
+</project>

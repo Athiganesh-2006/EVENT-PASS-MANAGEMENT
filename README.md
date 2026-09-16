@@ -21,8 +21,8 @@ npm install
 npm run dev
 ```
 
-Frontend calls `http://localhost:8080/api` by default. Override with `.env`:
-`VITE_API_URL=http://localhost:8080/api`
+Frontend calls `http://localhost:8089/api` by default. Override with `.env`:
+`VITE_API_URL=http://localhost:8089/api`
 
 ## Demo users
 - admin@example.com / admin123
